@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-Powered-Medical-Diagnosis-System/static/css/main.39c68047.css",
+    "main.js": "/AI-Powered-Medical-Diagnosis-System/static/js/main.344fecd7.js",
+    "static/js/453.8ab44547.chunk.js": "/AI-Powered-Medical-Diagnosis-System/static/js/453.8ab44547.chunk.js",
+    "index.html": "/AI-Powered-Medical-Diagnosis-System/index.html",
+    "main.39c68047.css.map": "/AI-Powered-Medical-Diagnosis-System/static/css/main.39c68047.css.map",
+    "main.344fecd7.js.map": "/AI-Powered-Medical-Diagnosis-System/static/js/main.344fecd7.js.map",
+    "453.8ab44547.chunk.js.map": "/AI-Powered-Medical-Diagnosis-System/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c68047.css",
+    "static/js/main.344fecd7.js"
+  ]
+}
